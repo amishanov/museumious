@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Museumius</string>
+    <string name="title_events">События</string>
+    <string name="event">   Событие   </string>
+    <string name="title_collection">Коллекция</string>
+    <string name="title_info">Информация</string>
+    <string name="title_exhibit">Экспонат</string>
+    <string name="image_description">Котик</string>
+    <string name="exhibit_name">Стандартное имя</string>
+    <string name="exhibit_description">Стандартное описание</string>
+    <string name="hello">Добро пожаловать в музей картинок!\nБлижайшие события:</string>
+    <string name="open_site">Открыть сайт</string>
+    <string name="open_ticket">Купить билет</string>
+    <string name="info_name">Здесь представлена информация по приложению Музей-картинок "Museumius"</string>
+    <string name="info_note">На вкладке <i>События</i> вы можете узнать предстоящие события, связанные
+        с жизнью музея. \n\nНа вкладке <i>Коллекция</i> вы можете ознакомится с экспонатами,
+        представленными в музее, а также получить справку по каждому экспонату.
+        \n\nНе забудьте установить это приложение перед походом в музей! Оно послужит вашим гидом.
+        \n\nНиже вы также можете посмотреть сайт музея или купить билет!.
+    </string>
+</resources>

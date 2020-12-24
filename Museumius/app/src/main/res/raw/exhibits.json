@@ -1,0 +1,116 @@
+{
+  "version": 1,
+  "count" : 22,
+  "exhibits": [
+    {
+      "name": "Грустный котик",
+      "description": "Это грустный котик. Грустный котик! Кто обидел котика?",
+      "img": "sadcat"
+    },
+    {
+      "name": "Кричащий котик",
+      "description": "\"Этот котик что-то кричит. Возможно это отсылка к Fate/zero и кричит он типично японское \"ЯМЕРООООООО\"",
+      "img": "screamcat"
+    },
+    {
+      "name": "Котик с пальцем",
+      "description": "Этот котик грустит, но все будет хорошо.",
+      "img": "allfinecat"
+    },
+    {
+      "name": "Грустный Пепе",
+      "description": "Это классический грустящий Пепе. Он довольно старый, так что истоник его грусти уже и не найти...",
+      "img": "feelsbadman"
+    },
+    {
+      "name": "Стесняющийся Пепе",
+      "description": "Это стесняющийся Пепе. Возможно, он только что признался кому-то в любви. И да, он милый даже в низком разрешении! ",
+      "img": "peeposhy"
+    },
+    {
+      "name": "Счастливый Пепе",
+      "description": "Это счастливый Пепе. У вас тоже все обязательно будет хорошо!",
+      "img": "peepohappy"
+    },
+    {
+      "name": "Грузящийся котик",
+      "description": "Этот котик о чём-то думает. Интересно, кто же его так загрузил?",
+      "img": "loadingcat"
+    },
+    {
+      "name": "Догги-пес",
+      "description": "Собака - лучший друг человека. Догги - лучший мем человека.",
+      "img": "doggy"
+    },
+    {
+      "name": "Пепе-клоун",
+      "description": "Why so serious?",
+      "img": "peepoclown"
+    },
+    {
+      "name": "Раздражённый котик",
+      "description": "Этот котик выглядит... раздражённым? Недовольным? Непонимающим? Просто скажем, что на него только что накричали",
+      "img": "annoyedcat"
+    },
+    {
+      "name" : "Языковая плашка",
+      "description": "Мало кто знает, но если эту плашку разместить на обложку с русскими надписями, обложка будет выглядеть в несколько раз хуже",
+      "img": "fullrus"
+    },
+    {
+      "name": "Пепе-ярость",
+      "description": "Да не бомбит у меня! А чё они говорят, что у меня не бомбит, когда у меня не боМБИТ, НЕ БОМБИТ У МЕНЯ!",
+      "img": "peperage"
+    },
+    {
+      "name": "Bonk",
+      "description": "БЕЗУМНО МОЖНО БЫТЬ ПЕРВЫМ, БЕЗУМНО МОЖНО ЧЕРЕЗ СТЕНЫ...(c)Цитаты волка, (c)Волк-одиночка, (C)АУУУУФ",
+      "img": "auf"
+    },
+    {
+      "name": "Дио",
+      "description": "ТЫ ДУМАЛ ЭТО МУЗЕЙ, НО ЭТО БЫЛ Я - ДИО!",
+      "img": "dio"
+    },
+    {
+      "name": "KEKW",
+      "description": "Nobody expects The Spanish Inquisition",
+      "img": "kekw"
+    },
+    {
+      "name": "Довольный котик",
+      "description": "Этот котик хорош. И ты тоже хорош, посмотри как он смотрит на тебя, он всем видом показывает, что доволен тобой",
+      "img": "smilecat"
+    },
+    {
+      "name" : "Выживший котик",
+      "description" : "Он обязательно выживет",
+      "img" : "survivecat"
+    },
+    {
+      "name" : "F-кот",
+      "description" : "Press F to pay respects",
+      "img" : "fcat"
+    },
+    {
+      "name" : "Щёлк-кот",
+      "description" : "*Щёлчок-уведомления из ВКонтакте*",
+      "img" : "chpokcat"
+    },
+    {
+      "name": "Котик-печенька",
+      "description": "nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan nyan",
+      "img": "nyancat"
+    },
+    {
+      "name" : "Котик-маг",
+      "description" : "Вжух. И всё у нас прекрасно",
+      "img" : "magiccat"
+    },
+    {
+      "name" : "Что-котик",
+      "description" : "Просто очень кислая мандаринка",
+      "img" : "whatcat"
+    }
+  ]
+}
