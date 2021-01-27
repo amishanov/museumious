@@ -42,7 +42,7 @@ public class MainActivity extends AppCompatActivity {
             if (events == null) {
                 events = new ArrayList<>();
                 events.add("Ой-ой, похоже, вам нужно подключится к интернету, " +
-                        "чтобы увидеть предстоящие события");
+                        "чтобы увидеть предстоящие события!");
             }
             getSupportFragmentManager().
                     beginTransaction().add(R.id.host, EventsFragment.newInstance(events)).commit();
